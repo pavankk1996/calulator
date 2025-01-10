@@ -1,4 +1,4 @@
-import 'package:calculator_dev/scrrens/calcu_Screen.dart';
+import 'package:calculator_dev/ui/mainscreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -20,6 +20,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-  
